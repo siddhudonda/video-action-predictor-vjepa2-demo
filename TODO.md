@@ -11,7 +11,7 @@ This document outlines the features and improvements planned for the V-JEPA2 Gra
 - [x] Dummy linear probe for action prediction
 - [x] Display predicted action and confidence
                                       
----
+---                        
 
 ## 🔜 Planned Features
 
